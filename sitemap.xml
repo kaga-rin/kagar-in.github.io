@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://t-zard.github.io/introduction/</loc>
+<lastmod>2018-03-10T12:25:17+07:00</lastmod>
+</url>
+<url>
+<loc>http://t-zard.github.io/blog/</loc>
+</url>
+<url>
+<loc>http://t-zard.github.io/</loc>
+</url>
+<url>
+<loc>http://t-zard.github.io/blog/archives/</loc>
+</url>
+<url>
+<loc>http://t-zard.github.io/about/</loc>
+</url>
+<url>
+<loc>http://t-zard.github.io/search/</loc>
+</url>
+<url>
+<loc>http://t-zard.github.io/neko/chit-chat/</loc>
+</url>
+</urlset>
