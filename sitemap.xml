@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://webtoon.click/faint-hearted/</loc>
+<lastmod>2018-03-29T15:58:26+07:00</lastmod>
+</url>
+<url>
 <loc>https://webtoon.click/aegis/</loc>
 <lastmod>2018-03-11T16:43:52+07:00</lastmod>
 </url>
@@ -42,5 +46,8 @@
 </url>
 <url>
 <loc>https://webtoon.click/neko/attendance/</loc>
+</url>
+<url>
+<loc>https://webtoon.click/p/2/</loc>
 </url>
 </urlset>
