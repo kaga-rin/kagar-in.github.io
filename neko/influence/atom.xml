@@ -1,97 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE HTML>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>Misperception  | Click</title>
-
-	<meta name="author" content="T-zard">
-
-<meta name="description" content="Tempat Baca Web Novel Webtoon Click"> <meta name="keywords" content="influence chapter 1, novel webtoon click, influence, webtoon click">
-
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-	<link href="/atom.xml" rel="alternate" title="Click" type="application/atom+xml">
-	<link rel="canonical" href="">
-	<link href="/favicon.ico" rel="shortcut icon">
-	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	
-
-</head>
-
-
-
-<body>
-	<header id="header" class="inner"><h1><a href="/">Click</a></h1>
-<span class="tagline">The word can't explained in comics</span>
-<nav id="main-nav"><ul>
-	<li><a href="/">Home</a></li>
-	<li><a href="https://bit.ly/wbclick" target="_blank">Comics</a></li>
-	<li><a href="/about">About</a></li>
-	<li><a href="/logs">Logs</a></li>
-</ul>
-</nav>
-<nav id="mobile-nav">
-	<div class="alignleft menu">
-		<a class="button">Menu</a>
-		<div class="container"><ul>
-	<li><a href="/">Home</a></li>
-	<li><a href="https://bit.ly/wbclick" target="_blank">Comics</a></li>
-	<li><a href="/about">About</a></li>
-	<li><a href="/logs">Logs</a></li>
-</ul>
-</div>
-	</div>
-</nav>
-
-<script>
-var host = "webtoon.click";
-if ((host == window.location.host) && (window.location.protocol != "https:"))
-    window.location.protocol = "https";
-</script>
-
-</header>
-
-	<div id="content" class="inner"><style>
-.PageNavigation {
-  font-size: 14px;
-  display: block;
-  width: auto;
-  overflow: hidden;
-}
-
-.PageNavigation a {
-  display: block;
-  width: 50%;
-  float: left;
-  margin: 1em 0;
-}
-
-.PageNavigation .next {
-  text-align: right;
-}
-</style>
-
-<article class="post">
-	<header>
-		<h2 class="title">Misperception</h2>
-		<div class="meta date">
-
-
-
-
-
-
-
+  <title><![CDATA[Category: influence | Click]]></title>
+  <link href="http://t-zard.github.io/neko/influence/atom.xml" rel="self"/>
+  <link href="http://t-zard.github.io/"/>
+  <updated>2018-05-11T22:06:34+07:00</updated>
+  <id>http://t-zard.github.io/</id>
+  <author>
+    <name><![CDATA[T-zard]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-
-
-<time datetime="2018-05-11T18:55:13+07:00" pubdate data-updated="true"></time></div>
-	</header>
-	<div class="entry-content"><p>Jum’at 08.30</p>
+  <entry>
+    <title type="html"><![CDATA[Misperception]]></title>
+    <link href="http://t-zard.github.io/misperception/"/>
+    <updated>2018-05-11T18:55:13+07:00</updated>
+    <id>http://t-zard.github.io/misperception</id>
+    <content type="html"><![CDATA[<p>Jum’at 08.30</p>
 
 <p>Setelah obrolan singkatku dengan Trika dan mendapat sebuah spuit (suntikan) secara aman juga cuma-cuma, aku merasa mendapat firasat baik tentang ini dan semuanya akan berjalan lancar.
 untuk itu aku putuskan ke kantin, belum memakan sesuatu  dari pagi membuatku konsentrasiku sedikit terbagi. Seperti biasa dijam kosong seperti ini kantin cukup ramai, walaupun intensitasnya terbagi antara siswa yang ada dikelas dan juga di koridor. Siswa di kantinpun cukup ramai untuk membuat sebuah pasar kecil. Tapi karena luasnya kantin sekolah kami, suara ramai seperti itu tidak akan terdengar jelas. Memasuki kawasan kantin bisa dilihat sebuah stand mie yang sangat ramai, sepertinya aku melihat kawanan ira tapi tanpa siska, jika tidak salah lihat aku juga melihat anggie yang ikut mengantri dengan ekspresi kebingungan.
@@ -107,101 +34,7 @@ Tak berselang lama seseorang bapak-bapak datang membawa botol saus baru yang pen
 
 <p>“sepertinya kau menggunakan cara licik lagi ya” anggie mulai mencibir seenaknya. “entahlah aku tak tau maksudmu” aku mencoba mengeles dan mencoba membuka sumpit dengan cara meregangkan kedua sumpit yang menyatu. “membuat mie menjadi makanan trendsetter di sekolah ini sepertinya tidak membuatku heran jika kamu yang melakukannya” Trika hanya melirik kebingungan karena dia tidak tau arah pembicaraan ini kemana. “bukankah kau tidak punya pilihan lain selain cerita, perempuan disebelahmu juga sepertinya ingin tahu” “apa maksudmu perempuan itu? Tapi benar, rezsa aku juga ingin tahu” “kalian berdua suka agil?” kataku berkata seenaknya. “siapa dia?” kata trika bertanya ke anggie tapi anggie hanya menggangguk karena dia pun juga tak tahu. “ha?” aku tersentak karena mereka berdua sama sekali tak tahu. “ehem” aku kembali normal dan bersiap untuk bercerita. “minggu lalu..”.
 “thanks ya zsa udah benerin akun facebook gw, kuylah ke kantin. Gw traktir makan” “santai aja, emang masih ada yang jualan dikantin sore gini” “masih kayanya, tapi semoga aja engga” “maksudnya?” “yaudah yuk ke kantin aja”. Kamipun berjalan ke kantin seperti dugaanku kantin sudah sepi karena sudah lewat 1 jam dari waktunya pulang. “tuh masih ada yang buka” kata agil menunjuk stand yang masih buka. Agil kemudian memesan mie dan aku..</p>
-</div>
-
-</article>
-
-	
-	<div class="share">
-	  <!-- <ul> -->
-	  <!--   <li>
-  <a href="https://twitter.com/intent/tweet?text=Misperception by @ri_arf&url=http://t-zard.github.io/misperception/" title="Share Misperception on Twitter">
-    <img src="/images/social/twitter.png" />
-  </a>
-</li>
- -->
-	  <!--   <li>
-  <a href="https://www.facebook.com/sharer.php?u=http://t-zard.github.io/misperception/" title="Share Misperception on Facebook">
-    <img src="/images/social/facebook.png" />
-  </a>
-</li>
- -->
-	  <!--   <li>
-  <a href="https://plus.google.com/share?url=http://t-zard.github.io/misperception/" title="Share Misperception on Google Plus">
-    <img src="/images/social/google.png" />
-  </a>
-</li>
- -->
-	  <!-- </ul> -->
-	</div>
-
-
-
-<div class="PageNavigation">
+]]></content>
+  </entry>
   
-    <a class="prev" href="/preparative/">&laquo; Preparative</a>
-  
-  
-</div>
-
-
-<div class="rns"></div>
-<script type="text/javascript">
-  (function() {
-    window.rnsData = {
-      apiKey: 'xz79977gxzrkb31n'
-    };
-    var s = document.createElement('script');
-    s.src = 'https://cdn.reactandshare.com/plugin/rns.js';
-    document.body.appendChild(s);
-  }());
-</script>
-<section id="comment">
-    <h2 class="title">Comments</h2>
-    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-</div>
-</section>
-
-</div>
-	<footer id="footer" class="inner"><br>
-<br>
-<br>
-<br>
-&copy; 2018 By
-
-    T-zard
- Built with <a href="https://www.ruby-lang.org" target="_blank">Ruby</a> and Deploy on <a href="https://github.com/t-zard/t-zard.github.io" target="_blank">GitHub</a>.</span>
-</footer>
-	<script src="/javascripts/slash.js"></script>
-<script src="/javascripts/hyphenator.js"></script>
-
-
-<script type="text/javascript">
-      var disqus_shortname = 'webtoon-click';
-      
-        
-        // var disqus_developer = 1;
-        var disqus_identifier = 'http://t-zard.github.io/misperception/';
-        var disqus_url = 'http://t-zard.github.io/misperception/';
-        var disqus_script = 'embed.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'https://' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
-
-
-
-
-
-
-</body>
-<script>
-  $(document).ready(function() {
-  // Make images center
-  $('p:has(img)').css('text-align', 'center');
-  });
-</script>
-</html>
+</feed>
