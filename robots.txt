@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://webtoon.click/sitemap.xml
+Sitemap: http://t-zard.github.io/sitemap.xml

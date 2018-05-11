@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: chit | Click]]></title>
-  <link href="https://webtoon.click/neko/chit/atom.xml" rel="self"/>
-  <link href="https://webtoon.click/"/>
-  <updated>2018-03-29T16:26:23+07:00</updated>
-  <id>https://webtoon.click/</id>
+  <link href="http://t-zard.github.io/neko/chit/atom.xml" rel="self"/>
+  <link href="http://t-zard.github.io/"/>
+  <updated>2018-05-11T21:25:55+07:00</updated>
+  <id>http://t-zard.github.io/</id>
   <author>
     <name><![CDATA[T-zard]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Introduction]]></title>
-    <link href="https://webtoon.click/introduction/"/>
+    <link href="http://t-zard.github.io/introduction/"/>
     <updated>2017-03-10T12:25:17+07:00</updated>
-    <id>https://webtoon.click/introduction</id>
+    <id>http://t-zard.github.io/introduction</id>
     <content type="html"><![CDATA[<p>Hello!! . T-zard disini. sebagai awalan pembuka dari situs ini, Author ingin membahas sedikit banyaknya perkenalan tentang webtoon ini.
 Pertama-tama kita membahas website baru ini. Dengan domain yang mendukung author jadi bersemangat untuk mewujudkan tentang
 membuat site Web Novel Sendiri (WN). Karena takutnya jika menggunakan platform novel akan ada berbagai kendala kamu pasti tahu sendiri :).

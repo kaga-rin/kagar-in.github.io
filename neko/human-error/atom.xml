@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: story | Click]]></title>
-  <link href="http://t-zard.github.io/neko/story/atom.xml" rel="self"/>
+  <title><![CDATA[Category: human_error | Click]]></title>
+  <link href="http://t-zard.github.io/neko/human-error/atom.xml" rel="self"/>
   <link href="http://t-zard.github.io/"/>
   <updated>2018-05-11T21:25:55+07:00</updated>
   <id>http://t-zard.github.io/</id>
